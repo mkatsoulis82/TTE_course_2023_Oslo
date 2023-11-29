@@ -1,2 +1,3 @@
-# TTE_course_2023_Oslo
-TTE course - Oslo 2023 (NorPEN)
+# NorPEN 2023: Pre-conference course
+
+The Target Trial Emulation framework: An introduction to causal inference concepts (practical)
